@@ -4,7 +4,7 @@ A fun and interactive cookie clicking game built with vanilla HTML, CSS, and Jav
 
 ## 🚀 Live Demo
 
-**[View Live Demo](https://Ahlaam24.github.io/Cookie-Clicker/)**
+**[View Live Demo](https://ahlaam24.github.io/Cookie-Clicker/)**
 
 Experience the game in action! The live demo is hosted on GitHub Pages.
 
