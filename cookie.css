@@ -1,0 +1,24 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: chocolate;
+    background-color: pink;
+}
+
+.container{
+    width:25%;
+    background-color: rgb(127, 255, 255);
+    border: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#cookie_img{
+    width:100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+
+}
